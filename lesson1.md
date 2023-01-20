@@ -73,6 +73,3 @@ Git - это одна из реализаций распределённых с�
 
 ![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/%D0%98%D0%B2%D0%B0%D0%BD/Desktop/%D0%A3%D1%87%D1%91%D0%B1%D0%B0/r62PQbTN1BxEEmQmDpkwP4qeYFDVKv5o.jpeg?version%3D1673803628319)
  
-
- ## Тест
- ddjdn
